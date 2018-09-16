@@ -1,0 +1,17 @@
+{
+    "name": "fitri/distance",
+    "description": "Get distance by latitude and longitude",
+    "authors": [
+        {
+            "name": "Fira Fitri",
+            "email": "firafitri365@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "src/Distance.php"
+        ]
+    }
+}

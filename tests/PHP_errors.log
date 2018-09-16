@@ -1,0 +1,9 @@
+[17-Sep-2018 02:32:52 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /var/www/html/fitri/distance/tests/test.php on line 2
+[17-Sep-2018 02:32:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /var/www/html/fitri/distance/tests/test.php on line 2
+[17-Sep-2018 02:32:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /var/www/html/fitri/distance/tests/test.php on line 2
+[17-Sep-2018 02:32:54 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /var/www/html/fitri/distance/tests/test.php on line 2
+[17-Sep-2018 02:33:18 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Fitri\Distance\circle_distance(), 0 passed in /var/www/html/fitri/distance/tests/test.php on line 7 and exactly 4 expected in /var/www/html/fitri/distance/src/Distance.php:7
+Stack trace:
+#0 /var/www/html/fitri/distance/tests/test.php(7): Fitri\Distance\circle_distance()
+#1 {main}
+  thrown in /var/www/html/fitri/distance/src/Distance.php on line 7
